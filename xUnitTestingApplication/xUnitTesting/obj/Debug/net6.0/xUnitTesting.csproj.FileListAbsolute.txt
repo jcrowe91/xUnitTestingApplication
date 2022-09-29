@@ -1,0 +1,15 @@
+C:\Users\jcrow\Desktop\Repos\xUnitTestingApplication\xUnitTestingApplication\xUnitTesting\bin\Debug\net6.0\xUnitTesting.exe
+C:\Users\jcrow\Desktop\Repos\xUnitTestingApplication\xUnitTestingApplication\xUnitTesting\bin\Debug\net6.0\xUnitTesting.deps.json
+C:\Users\jcrow\Desktop\Repos\xUnitTestingApplication\xUnitTestingApplication\xUnitTesting\bin\Debug\net6.0\xUnitTesting.runtimeconfig.json
+C:\Users\jcrow\Desktop\Repos\xUnitTestingApplication\xUnitTestingApplication\xUnitTesting\bin\Debug\net6.0\xUnitTesting.dll
+C:\Users\jcrow\Desktop\Repos\xUnitTestingApplication\xUnitTestingApplication\xUnitTesting\bin\Debug\net6.0\xUnitTesting.pdb
+C:\Users\jcrow\Desktop\Repos\xUnitTestingApplication\xUnitTestingApplication\xUnitTesting\obj\Debug\net6.0\xUnitTesting.csproj.AssemblyReference.cache
+C:\Users\jcrow\Desktop\Repos\xUnitTestingApplication\xUnitTestingApplication\xUnitTesting\obj\Debug\net6.0\xUnitTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcrow\Desktop\Repos\xUnitTestingApplication\xUnitTestingApplication\xUnitTesting\obj\Debug\net6.0\xUnitTesting.AssemblyInfoInputs.cache
+C:\Users\jcrow\Desktop\Repos\xUnitTestingApplication\xUnitTestingApplication\xUnitTesting\obj\Debug\net6.0\xUnitTesting.AssemblyInfo.cs
+C:\Users\jcrow\Desktop\Repos\xUnitTestingApplication\xUnitTestingApplication\xUnitTesting\obj\Debug\net6.0\xUnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\jcrow\Desktop\Repos\xUnitTestingApplication\xUnitTestingApplication\xUnitTesting\obj\Debug\net6.0\xUnitTesting.dll
+C:\Users\jcrow\Desktop\Repos\xUnitTestingApplication\xUnitTestingApplication\xUnitTesting\obj\Debug\net6.0\refint\xUnitTesting.dll
+C:\Users\jcrow\Desktop\Repos\xUnitTestingApplication\xUnitTestingApplication\xUnitTesting\obj\Debug\net6.0\xUnitTesting.pdb
+C:\Users\jcrow\Desktop\Repos\xUnitTestingApplication\xUnitTestingApplication\xUnitTesting\obj\Debug\net6.0\xUnitTesting.genruntimeconfig.cache
+C:\Users\jcrow\Desktop\Repos\xUnitTestingApplication\xUnitTestingApplication\xUnitTesting\obj\Debug\net6.0\ref\xUnitTesting.dll

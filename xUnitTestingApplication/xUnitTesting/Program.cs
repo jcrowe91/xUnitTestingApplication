@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine("This application was built to learn how to use xUnit, please disregard console interface");
+            Console.ResetColor();
         }
     }
 }
